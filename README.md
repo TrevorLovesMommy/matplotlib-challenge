@@ -15,3 +15,7 @@ Camplmulin is the most effect drug in reducing tumor volume and works best over 
 <p>2.  Survival during treatment</p>
 <img src = "https://raw.githubusercontent.com/TrevorLovesMommy/matplotlib-challenge/master/Pymaceuticals/Images/Survival_Rate.png">
 Campomulin has the highest survival rate.
+
+<p>3.  Tumor change</p>
+<img src = "https://raw.githubusercontent.com/TrevorLovesMommy/matplotlib-challenge/master/Pymaceuticals/Images/Tumor_Volume_Change.png">
+Campomulin reduced tumor volume on average about 20% while other drugs had similar performance as the placebo.
