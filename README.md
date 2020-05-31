@@ -5,7 +5,7 @@ For this assignment, we were given data from a study testing the effectiveness o
 Our goal for this assignment is to produce the following:
 1.  Generage summary statistics table consisting of the mean, medial, variance and standard deviation, and SEM of the tumor volum for each drug regimen.
 2.  Plot the number of data points for each regimen.
-3.  Calculate the final tumor volum of each mouse across four of the most promising treatement regimens:  Capomulin, Ramicane, Infubinol, and Ceftamin  
+3.  Calculate the final tumor volume of each mouse across four of the most promising treatement regimens:  Capomulin, Ramicane, Infubinol, and Ceftamin.  
 
 <h2>Insights</h2>
 1.  Tumor response to treatment
