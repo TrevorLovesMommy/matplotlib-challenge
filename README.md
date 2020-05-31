@@ -10,5 +10,8 @@ Our goal for this assignment is to produce the following:
 <h2>Insights</h2>
 1.  Tumor response to treatment
 <img src = "https://raw.githubusercontent.com/TrevorLovesMommy/matplotlib-challenge/master/Pymaceuticals/Images/Tumor_Response.png">
-Camplmulin is the most effect drug in reducing tumor volume.
-Campolumin works best over time.
+Camplmulin is the most effect drug in reducing tumor volume and works best over time.
+
+2.  Survival during treatment
+<img src = "https://raw.githubusercontent.com/TrevorLovesMommy/matplotlib-challenge/master/Pymaceuticals/Images/Survival_Rate.png">
+Campomulin has the highest survival rate.
