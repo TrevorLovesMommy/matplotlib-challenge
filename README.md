@@ -1,3 +1,5 @@
+<h1>Matplotlib Challenge</h1>
+
 For this assignment, were were given data from a study testing the effectiveness of a new drug called Campomulin versus other treatments.  In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured.
 
 Our goal for this assignment is to produce the following:
