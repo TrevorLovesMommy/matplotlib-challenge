@@ -1,4 +1,4 @@
-In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study.
+For this assignment, were were given data from a study testing the effectiveness of a new drug called Campomulin versus other treatments.  In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured.
 
 Our goal for this assignment is to produce the following:
 1.  Generage summary statistics table consisting of the mean, medial, variance and standard deviation, and SEM of the tumor volum for each drug regimen.
